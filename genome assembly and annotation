@@ -1,0 +1,6 @@
+conda activate dragonflye
+
+$change the barcode and the name that you want that barcode to be
+/location/runBC.sh folder_location/fastq_pass/barcode_number/ Sample_name
+/data/Adele_Marie_2024-03-05/Sample_name/annotation
+
